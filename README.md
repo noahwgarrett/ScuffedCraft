@@ -1,0 +1,2 @@
+# ScuffedCraft
+Minecraft Mod Project
